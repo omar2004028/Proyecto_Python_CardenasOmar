@@ -1,0 +1,22 @@
+[
+    {
+        "nombres": "omar",
+        "apellidos": "cardenas",
+        "identificacion": "1030040294",
+        "tipo_identificacion": "CC",
+        "direccion": "10-11-22",
+        "telefono_fijo": "00000987",
+        "celular": "3124567809",
+        "barrio": "Atalaya"
+    },
+    {
+        "nombres": "Yisel",
+        "apellidos": "cardenas",
+        "identificacion": "10034567",
+        "tipo_identificacion": "CC",
+        "direccion": "10-11-22",
+        "telefono_fijo": "31245678",
+        "celular": "312444444",
+        "barrio": "Atalaya"
+    }
+]

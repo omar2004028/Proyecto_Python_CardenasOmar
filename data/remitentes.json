@@ -1,0 +1,14 @@
+[
+    {
+        "id": "123456",
+        "nombre": "jesus",
+        "telefono": "123454",
+        "direccion": "Atalaya"
+    },
+    {
+        "id": "654321",
+        "nombre": "alejandro",
+        "telefono": "312456789",
+        "direccion": "11-55-89"
+    }
+]
